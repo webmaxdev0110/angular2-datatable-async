@@ -1,5 +1,5 @@
 {
-  "name": "angular2-datatable",
+  "name": "angular2-datatable-async",
   "version": "0.6.0",
   "description": "DataTable component for Angular2 framework",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariuszfoltak/angular2-datatable.git"
+    "url": "git+https://github.com/webmaxdev0110/angular2-datatable-async.git"
   },
   "keywords": [
     "angular",
@@ -28,12 +28,12 @@
     "sort",
     "sorting"
   ],
-  "author": "mariuszfoltak@gmail.com",
+  "author": "webmax0110.dev@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mariuszfoltak/angular2-datatable/issues"
+    "url": "https://github.com/webmaxdev0110/angular2-datatable-async/issues"
   },
-  "homepage": "https://github.com/mariuszfoltak/angular2-datatable#readme",
+  "homepage": "https://github.com/webmaxdev0110/angular2-datatable-async#readme",
   "devDependencies": {
     "@angular/core": "^2.1.0",
     "@angular/compiler": "^2.1.0",
